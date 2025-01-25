@@ -13,5 +13,6 @@
 ## Technologies Used
 - **Programming Languages**: Python
 - **Libraries/Frameworks**: PyTorch, OpenCV, NumPy
-- **Machine Learning Models**: Faster R-CNN (ResNet-50), SE-ResNet50, R2GenCMN, Fine-tuned Large Language Model (LLM)
-- **Dataset**: MIMIC-CXR
+- **Machine Learning Models**: Faster R-CNN (ResNet-50), SE-ResNet50, R2GenCMN, Fine-tuned Large Language Model (LLM) - OPT1.3B
+- **Dataset**: VinDr-CXR dataset
+  
